@@ -1,0 +1,8 @@
+um ponnteiro é uma variavel capaz de amarzenar um endereço de memoria ou de outra variavel
+-manipular elementos da matrix
+-receber argumento de função
+-criar estrutura de dados complexos 
+-alocar ou descolar mem. de sistemas
+-Passar uma funçao a end. de outra função
+
+o operador & é um operador  unario
